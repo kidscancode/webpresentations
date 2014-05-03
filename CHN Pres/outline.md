@@ -17,3 +17,9 @@
     * Lack of school options
     * AP classes
     *
+* Python
+    * why Python?
+    * other languages
+    * Python uses and reach
+
+* Try some code!

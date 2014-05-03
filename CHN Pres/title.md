@@ -14,3 +14,17 @@ chris@kidscancode.org
 * 20 years in the Internet technology space
 * Developer, Sysadmin, Manager
 * Started KidsCanCode in 2013
+
+
+## What this talk is about
+
+* What is programming?
+* Why should you (or your child) learn programming?
+* Let's code!
+
+```python
+for i in range(10):
+    print(i)
+print("Hello World!")
+```
+
