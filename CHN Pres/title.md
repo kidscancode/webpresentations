@@ -9,11 +9,14 @@ chris@kidscancode.org
 <img src="img/kcc_logo.png" width="350" border="0">
 
 
+
 ## About me
 
 * 20 years in the Internet technology space
-* Developer, Sysadmin, Manager
+* Started programming when I was 12
+* Developer, Sysadmin, Manager, Consultant
 * Started KidsCanCode in 2013
+
 
 
 ## What this talk is about
