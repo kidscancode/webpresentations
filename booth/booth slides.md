@@ -9,7 +9,7 @@
 
 ---
 
-## Code = Create
+## Coding empowers
 
 Learning to code changes your relationship with technology from passive consumer to active creator.
 
@@ -43,12 +43,15 @@ Coding is fun!
 
 ## What do programmers make?
 
+<img style="float: left; margin: 0px 0px 15px 15px;" src="img/flappy.png" width="200">
 <img style="float: right; margin: 0px 0px 15px 15px;" src="img/robot-drone.png" width="300" border="0">
 
 * Robots
 * Smartphones
 * Games
 * Animation/Movies
+
+<img style="float:center;" src="img/pixar.png" width="300">
 
 ---
 
@@ -98,9 +101,9 @@ Coding is fun!
 
 ---
 
-# Python
+## We Teach Python
 
-<img src="img/python-logo.png" width="200">
+<img src="img/python-logo.png" width="100">
 
 * Great language for beginners
 * Widely used in academia and industry
@@ -110,6 +113,14 @@ Coding is fun!
 ```python
 name = input("What's your name? ")
 print("Hello", name)
+```
+
+---
+
+## Example Python Program
+
+```python
+
 ```
 
 ---
