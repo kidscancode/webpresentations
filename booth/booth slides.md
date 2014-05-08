@@ -11,7 +11,8 @@
 
 ## Coding empowers
 
-Learning to code changes your relationship with technology from passive consumer to active creator.
+Learning to code changes your relationship with technology.
+#### Passive consumer --> active creator
 
 ---
 
@@ -23,7 +24,7 @@ Coding teaches logic and problem solving skills that are useful in all areas of 
 
 ---
 
-## It's not just technical
+## It's not just for engineers
 
 Tomorrow's doctors, lawyers, and politicians will need to understand technology to guide future policies.
 
@@ -85,20 +86,6 @@ Coding is fun!
 
 <small>Source: code.org</small>
 
-
----
-
-## Scratch - for young children
-
-* No typing
-* Drag-and-drop program blocks
-* Create interactive stories, animations, games, and more
-* Created at MIT
-
-<img src="img/scratch2.png" width="300">
-
-
-
 ---
 
 ## We Teach Python
@@ -120,8 +107,31 @@ print("Hello", name)
 ## Example Python Program
 
 ```python
+# Random number guessing game
+import random
 
+secret_number = random.randrange(1, 101)
+guess = 0
+while guess != secret_number:
+    guess = int(input("Guess a number: "))
+    if guess < secret_number:
+        print("Too low!")
+    elif guess > secret_number:
+        print("Too high!")
+    else:
+        print("You got it!")
 ```
+
+---
+
+## Scratch - ideal for young children
+
+* No typing
+* Drag-and-drop program blocks
+* Create interactive stories, animations, games, and more
+* Created at MIT
+
+<img src="img/scratch2.png" width="300">
 
 ---
 
