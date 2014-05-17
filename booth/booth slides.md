@@ -12,13 +12,14 @@
 ## Coding empowers
 
 Learning to code changes your relationship with technology.
-#### Passive consumer --> active creator
+<br>
+### Passive consumer --> active creator
 
 ---
 
 ## Coding is a life skill
 
-Coding teaches logic and problem solving skills that are useful in all areas of life.
+Coding teaches <strong>logic</strong> and <strong>problem solving</strong> skills that are useful in all areas of life.
 
 <img src="img/probsolve.png" width="300">
 
@@ -32,7 +33,7 @@ Tomorrow's doctors, lawyers, and politicians will need to understand technology 
 
 ## Start early
 
-The best way to become a good programmer is to program A LOT!
+The best way to become a good programmer is to practice!
 
 ---
 
@@ -56,9 +57,9 @@ Coding is fun!
 
 ---
 
-### We need programmers
+## We need programmers
 
-<img src="img/code.org-grads2.png" width="800">
+<img src="img/code.org-grads2.png" width="700">
 
 <small>Source: code.org</small>
 
