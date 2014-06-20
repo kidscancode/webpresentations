@@ -28,5 +28,5 @@ chris@kidscancode.org
 ## What this talk is about
 
 * What is programming?
-* Why should you (or your child) learn to code?
+* Why should you learn to code?
 * Let's code!

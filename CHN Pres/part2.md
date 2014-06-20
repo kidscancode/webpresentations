@@ -80,9 +80,6 @@ fred.forward(50)
 
 ### Circles
 <pre><code class="python fragment">
-fred.reset()
-</code></pre>
-<pre><code class="python fragment">
 fred.circle(100)
 </code></pre>
 <pre><code class="python fragment">
