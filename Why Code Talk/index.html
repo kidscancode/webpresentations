@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Why Code?</title>
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/beige2.css" id="theme">
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/tomorrow-night-bright.css">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section data-markdown="title.md"
+                     data-separator="^---"
+                     data-vertical="^--"
+                     data-charset="iso-8859-15">
+            </section>
+            <section data-markdown="part1.md"
+                     data-separator="^---"
+                     data-vertical="^--"
+                     data-charset="iso-8859-15">
+            </section>
+        </div>
+    </div>
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.min.js"></script>
+
+    <script>
+        // Required, even if empty.
+        Reveal.initialize({
+            controls: false,
+            slideNumber: true,
+            history: false,
+            // default/cube/page/concave/zoom/linear/fade/none
+            transition: 'default',
+            // default/slow/fast
+            transitionSpeed: 'fast',
+            dependencies: [
+                // Cross-browser shim that fully implements classList - https://github.com/eligrey/classList.js/
+                { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                // Zoom in and out with Alt+click
+                { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+
+            ]
+        });
+    </script>
+</body>
